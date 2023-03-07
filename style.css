@@ -36,7 +36,7 @@ h2 {
 }
 
 .active .arrow {
-    background-image: url(./assets/Chevron\ up.svg);
+    background-image: url(./assets/ChevronUp.svg);
     height: 5px;
     width: 10px;
     background-repeat: no-repeat;
